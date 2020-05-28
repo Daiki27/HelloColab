@@ -8,6 +8,7 @@ Colaboratoryのコードをgitにpushして, gitで管理したい.
 
 ## 問題
 1. Colaboratory上でipynbをpushできるが, 差分管理がipynb形式なので辛い.
+  - https://medium.com/@navan0/how-to-push-files-into-github-from-google-colab-379fd0077aa8
 
 2. Colaboratory上でipynbをpyに変換して, それをpushしようとした. しかし, 以下のコマンドの出力はtxtだった.
   
